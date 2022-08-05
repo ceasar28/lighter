@@ -1,2 +1,0 @@
-# lighter
-lightersEmpire NGO website
